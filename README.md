@@ -7,7 +7,7 @@ During the training
 - To ask a question, participants have the following options
 	 1. Unmute your mic, switch on your camera, speak the question, mute your mic again and switch off your camera.
 	 2. Type the question in the chat window of Zoom
-	 3. WhatsApp the trainer at 913781628. No calls or SMS.
+	 3. WhatsApp the trainer at 913781628.
 	 4. [Email](mailto:vijay_nathani@yahoo.com) trainer
 - All slides, exercises, and course material will be kept in this repository during the training.
 
