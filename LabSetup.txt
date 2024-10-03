@@ -1,0 +1,8 @@
+The participants' PC must have
+
+    Ability to use video conferencing software like Teams with headphones, a mic, and preferably a webcam.
+    Ability to download from GitHub site.
+    Some Office software.
+    Ability to send and receive emails.
+    A simple code editor like Visual Studio Code
+    Java JDK 8 or later.
