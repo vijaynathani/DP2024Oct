@@ -6,3 +6,8 @@ The participants' PC must have
     Ability to send and receive emails.
     A simple code editor like Visual Studio Code
     Java JDK 8 or later.
+
+If you don't have any software from above on your PC, then  you can use the remote linux desktop in your browser.
+	Go to https://cloudlabs.nuvepro.com/company/PragatiSoftware/home
+	Ask trainer for login id and password.
+Refer the document HowToUseRemoteDesktop.pdf in this directory, for any issues.
