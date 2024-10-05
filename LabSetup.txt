@@ -9,5 +9,5 @@ The participants' PC must have
 
 If you don't have any software from above on your PC, then  you can use the remote linux desktop in your browser.
 	Go to https://cloudlabs.nuvepro.com/company/PragatiSoftware/home
-	Ask trainer for login id and password.
+	Ask trainer for login id and password, if haven't already received the same.
 Refer the document HowToUseRemoteDesktop.pdf in this directory, for any issues.
