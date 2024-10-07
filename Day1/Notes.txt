@@ -45,6 +45,8 @@ else
 
 Polymorphism: 30, 40, 43, 36
 
+Inheritance: 72, 31, 71, 52, 54.
+
 
 
 
