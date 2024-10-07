@@ -1,0 +1,11 @@
+Design Patterns Training
+GitHub: https://bit.ly/47Pwg0c
+
+To give Pre-Training test
+- Login to Cloudlabs
+- Start "Design patterns" Lab
+- On desktop of remote machine, select Design patterns (star symbol)
+- Pre-Test Link
+
+Alternate way to give this test, go to
+https://bit.ly/4eWi2NH

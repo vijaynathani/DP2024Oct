@@ -1,6 +1,6 @@
 The participants' PC must have
 
-    Ability to use video conferencing software like Teams with headphones, a mic, and preferably a webcam.
+    Ability to use video conferencing software like Zoom with headphones, a mic, and preferably a webcam.
     Ability to download from GitHub site.
     Some Office software.
     Ability to send and receive emails.
