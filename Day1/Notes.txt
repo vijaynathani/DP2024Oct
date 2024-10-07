@@ -59,7 +59,4 @@ Beverage b = new Milk(new Sugar(new Tea()));
 
 new HScrollPane(VScrollPane(new JFrame()));
 
-
-
-
-
+The link https://goo.gl/7NHQ3A wasn't working. The contents of this link have been printed in the document ValidityInDecorator.pdf
