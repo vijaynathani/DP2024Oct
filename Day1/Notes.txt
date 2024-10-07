@@ -27,7 +27,11 @@ Non-OO design
 	void f1(Abc *x) ...
 
 
-Q57
+Q57 - S57
+Q58 - S58.
+
+Hibernate: 1032 classes
+Javadocs: 20 classes
 
 
 
