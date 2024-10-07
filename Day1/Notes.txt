@@ -47,6 +47,19 @@ Polymorphism: 30, 40, 43, 36
 
 Inheritance: 72, 31, 71, 52, 54.
 
+Day1/Strategy.java
+Day1/Obeserver
+
+Black Tea Rs 50; Sugar Rs 10; Milk Rs 20; Coffee Rs 70.
+
+Ingridient: Sugar, Milk. 
+Beverage will have list Ingridients. Tea, Coffee.
+
+Beverage b = new Milk(new Sugar(new Tea()));
+
+new HScrollPane(VScrollPane(new JFrame()));
+
+
 
 
 
