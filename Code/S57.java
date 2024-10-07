@@ -11,6 +11,7 @@
 
 class StudentManagementSystem {
     Student students[];
+    String[] allCourseCodes;
     Enrollments en;
 }
 class Student {
