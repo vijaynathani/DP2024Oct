@@ -1,0 +1,6 @@
+GitHub: https://bit.ly/47Pwg0c
+
+DRY: 021, 11, 33, 37, 10, 34, 70
+abstract class
+
+Small classes: 56, 59
