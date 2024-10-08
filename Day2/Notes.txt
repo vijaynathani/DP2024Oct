@@ -11,6 +11,6 @@ Loose: List, Set
 Simple Factory: Currently strong coupled, but can be made loosely coupled.
 
 Draw class diagram and Email/WhatsApp me.
-Break 10 mintues.
+Break 10 minutes till 4:40PM.
 
 
