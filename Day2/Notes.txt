@@ -4,3 +4,13 @@ DRY: 021, 11, 33, 37, 10, 34, 70
 abstract class
 
 Small classes: 56, 59
+
+Coupling:
+Strong: Thread, String
+Loose: List, Set
+Simple Factory: Currently strong coupled, but can be made loosely coupled.
+
+Draw class diagram and Email/WhatsApp me.
+Break 10 mintues.
+
+
