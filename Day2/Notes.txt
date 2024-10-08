@@ -13,4 +13,17 @@ Simple Factory: Currently strong coupled, but can be made loosely coupled.
 Draw class diagram and Email/WhatsApp me.
 Break 10 minutes till 4:40PM.
 
+Day2: SingletonObjectPool
+	SingletonMultiTon
+
+Singleton: Only one object for a class
+Singleton Registry: Multiple Singletons stored in one place.
+Object Pool: N instances of a class
+MultiTon: N instances each having a unique name.
+
+WindowListener - 6 functions.
+WindowAdapter implements WindowListener.
+
+
+
 
