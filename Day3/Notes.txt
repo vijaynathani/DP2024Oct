@@ -8,4 +8,13 @@ String x? = null;
 Null: Q28
 
 ab:25:cd
+obj.f1().f2().f3();
+obj.f3();
 Law of Demeter: Q26
+Better interface/function signatures: Q53, Q73.
+
+C: struct, functions
+Java: class with getters and setters, 
+
+SRP: Q50, Q51 and Q55
+10 minute break till 4:35.
