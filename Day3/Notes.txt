@@ -1,4 +1,9 @@
 GitHub: https://bit.ly/47Pwg0c
 Comments are BAD.
 Self documenting code: Q20, Q06, Q07, Q21, Q22, Q23, Q25
+Good comments:
+	Why? JavaDocs. Warnings. To do.
+
+String x? = null;
+Null: Q28
 
