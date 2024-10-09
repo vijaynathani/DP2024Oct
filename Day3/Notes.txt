@@ -7,3 +7,5 @@ Good comments:
 String x? = null;
 Null: Q28
 
+ab:25:cd
+Law of Demeter: Q26
