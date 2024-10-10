@@ -18,3 +18,18 @@ Java: class with getters and setters,
 
 SRP: Q50, Q51 and Q55
 10 minute break till 4:35.
+
+Hiberante 1035 classes
+Javadocs has about 25 classes. Simple Factory and interfaces. 
+
+QCoffee.java
+Make class diagram and send it to me.
+
+Heater, LED display, Water, button, bell, Warmer
+
+Design Patterns < C++ < Java < C#
+
+Code in Day3/mapfilterreduce/Iterator
+S41 uses composite DP to improve Q41.
+
+
