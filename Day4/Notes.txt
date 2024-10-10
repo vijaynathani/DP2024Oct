@@ -35,4 +35,4 @@ Day4/Interpretor.java
 
 Assignment: Convert this program to Lamdas.
 No need to use the pattern.
-Send me your solution by email/WhatsApp.
+Solution in InterpreterJava8 in Day4
