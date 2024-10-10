@@ -1,3 +1,38 @@
 GitHub: https://bit.ly/47Pwg0c
 
 OCP: 45, 44, 39, 83, 84.
+Day4: State1
+
+class C1
+C2
+C3
+C4
+C5
+	
+Exercise:
+Day4/QFormatLines.java - Improve design and send it to me.
+SFormatLines
+
+Flyweight:
+Point1 is mutable. StringBuffer
+Point2 is immutable. String
+Advantage of Point2:
+1. Thread-safe. Automatic.
+2. Save memory.
+3. Less error prone. Automatic.
+
+make it immutable:
+Count is not important, contents are important
+
+10-Oct-2024 - 1 million
+FlyweightCache
+
+belowPriceAvoidingAColor
+new AndSpec(new BelowPriceSpec, new NotSpec(new ColorSpec))
+
+
+Day4/Interpretor.java
+
+Assignment: Convert this program to Lamdas.
+No need to use the pattern.
+Send me your solution by email/WhatsApp.
