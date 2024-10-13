@@ -1,0 +1,19 @@
+plugins {
+    id "application"
+    id "idea"
+}
+repositories {
+    mavenCentral()
+}
+application {
+    mainClass.set("bnch.MainProgram")  //For new version of gradle, but 6.1.0 shadowjar doesn't recognize it.
+}
+idea {
+    module {
+        downloadJavadoc = false
+        downloadSources = false
+    }
+}
+//Optional: To run without optimizations
+//      java -Xint -jar build/libs/Benchmark-all.jar 1
+// For old versions of java, use -Djava.compiler=NONE instead of -Xint
