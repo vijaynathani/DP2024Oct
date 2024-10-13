@@ -34,7 +34,7 @@ public class MainProgram {
 				System.out.printf("Average time taken is %d milliSeconds%n", m.averageTimeTaken(m.serDer));
 				break;
 			default :
-				System.err.println("Run fat jar ./build/libs/Benchmark.jar [1|2|3]%n");
+				System.err.println("Run fat jar ./build/libs/Benchmark-all.jar [1|2|3]%n");
 		}
 	}
 }

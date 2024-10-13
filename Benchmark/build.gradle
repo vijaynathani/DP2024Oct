@@ -1,6 +1,7 @@
 plugins {
     id "application"
     id "idea"
+    id "com.gradleup.shadow" version "8.3.3"  //"gradle shadowJar" will create a fat jar in build/libs dir
 }
 repositories {
     mavenCentral()
