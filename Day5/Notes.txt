@@ -1,1 +1,19 @@
 GitHub: https://bit.ly/47Pwg0c
+
+1. Cloning  - 14 seconds
+2. Manual Copy - 28 seconds
+3. Serialization - More than one hour.
+
+GitHub: Benchmark
+
+Visitor:
+1. When you to remove RTTI
+2. When you add some functionality to a group of classes without corrupting them.
+
+Assignment: Day5/EmployeeSorter.java
+My solution is in VisitorEmployeeSorter.java
+
+Before leaving for the day, please
+- Fill the feedback form for this training.
+- Give the objective Post-Test.
+The links for both are there in Cloud Labs, Design Patterns icon on desktop. 
