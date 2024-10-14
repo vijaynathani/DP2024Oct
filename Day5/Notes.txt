@@ -13,7 +13,17 @@ Visitor:
 Assignment: Day5/EmployeeSorter.java
 My solution is in VisitorEmployeeSorter.java
 
-Before leaving for the day, please
+Please
 - Fill the feedback form for this training.
-- Give the objective Post-Test.
+	Final feedback link
+- Give the objective test 
+	Post-Test link
 The links for both are there in Cloud Labs, Design Patterns icon on desktop. 
+
+
+Assignment: Email me the class diagram or code for "Game of Life"
+
+
+
+
+
